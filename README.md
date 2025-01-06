@@ -40,7 +40,7 @@ Sou o tipo de pessoa que se dedica 100% a tudo que faz. Desde os primeiros códi
 ## 🌐 Vamos nos conectar?  
 Se quiser trocar uma ideia sobre tecnologia, banco de dados ou até pedir dicas, é só me chamar!  
 
-- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/nivea-lins-81036a2a2/)) .  
+- [LinkedIn](https://www.linkedin.com/in/nivea-lins-81036a2a2/)  
 - Email: niihlinss@gmail.com   
 
 ---
